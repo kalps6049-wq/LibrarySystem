@@ -1,7 +1,8 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+
+# Reg No: 212225240064
+# Name: KALPANA M
+# Date: 03-11-2026
 
 
 # AIM:
@@ -22,6 +23,7 @@ To develop the Library Management System using Star UML
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+<img width="939" height="909" alt="Screenshot 2026-08-24 084728" src="https://github.com/user-attachments/assets/809b5cee-786f-4784-9215-7ba88daef487" />
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -39,12 +41,9 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
-
-
 # CLASS DIAGRAM
+<img width="1434" height="913" alt="Screenshot 2026-08-24 084753" src="https://github.com/user-attachments/assets/a09f2432-465c-4219-b049-22a4e36ebe12" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -58,18 +57,17 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
-
 # COMMUNICTION DIAGRAM:
+<img width="1066" height="910" alt="Screenshot 2026-08-24 084808" src="https://github.com/user-attachments/assets/3f0ca429-1672-4c3f-acba-1c2fc587788c" />
+
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
-
 # PACKAGE DIAGRAM:
+<img width="1281" height="912" alt="Screenshot 2026-08-24 084911" src="https://github.com/user-attachments/assets/db0f5a67-5a24-4fd2-9356-cf2e7e5fcbcf" />
+
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -78,13 +76,9 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
-
-
-
-
 # ACTIVITY DIAGRAM:
+<img width="1056" height="909" alt="Screenshot 2026-08-24 084938" src="https://github.com/user-attachments/assets/ef679213-cdaa-4b7c-8ba5-6f797bff70b7" />
+
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -97,10 +91,9 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
-
-
 # SEQUENCE DIAGRAM
+<img width="1440" height="911" alt="Screenshot 2026-08-24 085020" src="https://github.com/user-attachments/assets/0f03edf8-b7d7-467a-be9c-ce9323673da0" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
@@ -117,7 +110,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
+#RESULT
+Thus the project to develop Library Management System was developed using Star UML Software is done successfully.
 
 
 
